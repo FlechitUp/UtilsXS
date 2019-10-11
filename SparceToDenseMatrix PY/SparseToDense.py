@@ -31,7 +31,7 @@ if __name__ == "__main__":
 				#print(mynumber)
 			print("lin"+str(cnt))
 			print("."+x[len(x)-1]+"ok")			
-			arr[249] = float(x[len(x)-1])			
+			arr[cols] = float(x[len(x)-1])			
 			#print(arr)
 			#s = input()
 			for i in range(0,len(arr)-1):
